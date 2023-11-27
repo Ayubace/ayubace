@@ -1,6 +1,5 @@
-### Hi there 👋
-
-# Ayub Muse - AWS Solution Architect
+<h1 align="center">Hi 👋, I'm Ayub Muse</h1>
+<h3 align="center">AWS Solution Architect</h3>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ayubmuse&color=blueviolet&style=flat-square)](https://github.com/ayubmuse)
 
